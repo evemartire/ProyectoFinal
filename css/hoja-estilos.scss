@@ -23,14 +23,16 @@ body{
 
 .conjunto-titulos{
 	padding: 10px;
+	padding-bottom: 30px;
 	margin-top:20px;
 
 	h3{
-	font-size: 60px;
+	font-weight: 700;:
+	font-size: 30px;
 	}
 
 	h6{
-	font-size: 35px;
+	font-size: 15px;
 	}
 }
 
@@ -38,11 +40,28 @@ body{
 .serivicios-estilos{
 	background-color: #ffffff;
 	color: $color-gris;
+	text-align: center;
+
+	p{
+	font-weight: 300;
+	}
+
+	i{
+	background-color: $color-verde;
+	color: #ffffff;
+	font-weight: 700;
+	font-size: 40px;
+	padding: 30px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+	}
 }
 
 .portfolio-estilos{
 	background-color: $color-beige;
 	color: $color-gris;
+
 }
 
 
