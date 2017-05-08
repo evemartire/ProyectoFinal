@@ -93,6 +93,17 @@ header .intro-text {
     padding-bottom: 200px;
 }
 
+.intro-text-t1{
+	font-size: 20px;
+	font-weight: 400;
+}
+
+.intro-text-t2{
+	font-size: 50px;
+	font-weight: 700;
+	padding-bottom: 30px;
+}
+
 .navbar-default .navbar-nav>li>a {
     color: #ffffff;
 
@@ -112,4 +123,16 @@ header .intro-text {
 
 .navbar-toggle {
     color: white;
+}
+
+
+.btn-xl {
+    color: #fff;
+    background-color: $color-naranja;
+    border-color: $color-naranja;
+    border-radius: 3px;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 10px 25px;
+    margin-top: 10px;
 }
