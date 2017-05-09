@@ -2,7 +2,7 @@ $color-naranja: #eebf3a;
 
 $color-verde: #3d9c82;
 
-$color-beige: #ebdcc3;
+$color-beige: #bbd5b3;
 
 $color-gris: #58595b;
 
@@ -100,7 +100,7 @@ body{
 
 /*estilos HEADER*/
 header {
-  background-image: url(../imagenes/imagen-bg.jpg);
+  background-image: url(../imagenes/imagen-bg-1.jpg);
   background-color: #58595b;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -180,7 +180,7 @@ header .intro-text {
 
 .portfolio-estilos{
 	background-color: $color-beige;
-	color: $color-gris;
+	color: #ffffff;
 	text-align: center;
   display: flex;
   justify-content: center;
@@ -205,6 +205,7 @@ header .intro-text {
 .image-container {
     position: relative;
     display: inline-block;
+    padding: 0px;
     
 }
 
