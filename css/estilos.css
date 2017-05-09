@@ -16,7 +16,8 @@ body {
 .conjunto-titulos {
   padding: 10px;
   padding-bottom: 30px;
-  margin-top: 20px; }
+  margin-top: 20px;
+  text-align: center; }
   .conjunto-titulos h3 {
     font-weight: 700;
     :
@@ -169,5 +170,10 @@ header .intro-text {
 .about-estilos {
   background-color: #ffffff;
   color: #58595b; }
+
+/*CONTACTO*/
+.contacto-estilos {
+  background-color: #3d9c82;
+  color: #ffffff; }
 
 /*# sourceMappingURL=estilos.css.map */
